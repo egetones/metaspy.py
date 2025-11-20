@@ -10,7 +10,7 @@
   <strong>Extract hidden EXIF metadata and GPS coordinates from images.</strong>
 </p>
 
-[Report Bug](https://github.com/your-username/metaspy/issues) · [Request Feature](https://github.com/your-username/metaspy/issues)
+[Report Bug](https://github.com/egetones/metaspy/issues) · [Request Feature](https://github.com/egetones/metaspy/issues)
 
 </div>
 
