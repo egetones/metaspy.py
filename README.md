@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🕵️‍♂️ MetaSpy
+# MetaSpy
 
 ![Python](https://img.shields.io/badge/Python-3.x-blue?style=flat&logo=python)
 ![License](https://img.shields.io/badge/License-MIT-green)
@@ -16,22 +16,22 @@
 
 ---
 
-## 📖 Description
+## Description
 
 **MetaSpy** is a Python-based OSINT (Open Source Intelligence) tool designed to extract EXIF metadata from image files. 
 
 Modern digital cameras and smartphones embed hidden data inside images, including device models, timestamps, and often **precise GPS coordinates**. MetaSpy reads this data and, if GPS info is available, generates a direct **Google Maps link** to the location where the photo was taken.
 
-### ✨ Key Features
+### Key Features
 
-* **📍 GPS Extraction:** Converts raw GPS data into a clickable Google Maps link.
-* **📷 Device Info:** Identifies the camera make, model, and software used.
-* **🕒 Timestamp Analysis:** Reveals the exact date and time the photo was captured.
-* **🐍 Python Powered:** Lightweight and easy to use via CLI.
+  **GPS Extraction:** Converts raw GPS data into a clickable Google Maps link.
+  **Device Info:** Identifies the camera make, model, and software used.
+  **Timestamp Analysis:** Reveals the exact date and time the photo was captured.
+  **Python Powered:** Lightweight and easy to use via CLI.
 
 ---
 
-## 🛠️ Installation
+## Installation
 
 1. **Clone the repository:**
    ```bash
@@ -46,7 +46,7 @@ Modern digital cameras and smartphones embed hidden data inside images, includin
 
 ---
 
-## 💻 Usage
+## Usage
 
 Run the tool by providing an image path using the `-i` flag.
 
@@ -79,6 +79,6 @@ This tool is developed for **educational and operational security (OpSec) awaren
 
 ---
 
-## 📝 License
+## License
 
 Distributed under the MIT License. See `LICENSE` for more information.
